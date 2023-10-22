@@ -1,4 +1,5 @@
 #!/bin/bash
+#recode from massgitscan.sh github.com/adelittle
 #Svn Scanner 
 # Colors
 cRojo=`tput setaf 1`
