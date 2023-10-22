@@ -1,5 +1,6 @@
-```
-# Mass_Svn_Scanner
+Mass Scanner for .svn Folder
 
-Usage:bash masssvnscan.sh list.txt
+# Usage
+```
+$ bash masssvnscan.sh list.txt
 ```
